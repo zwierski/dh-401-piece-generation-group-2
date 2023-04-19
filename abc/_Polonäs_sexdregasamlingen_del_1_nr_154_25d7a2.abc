@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X: 154
+T: Polonäs, sexdregasamlingen del 1 nr 154
+B: Sexdregasamlingen del 1 nr 154
+O: Sexdrega, Västergötland
+R: Slängpolska
+S: efter Johannes Bryngelsson
+N: En rytm i tredje taken i andrareprisen är märkt med frågetecken i uppteckningen.
+N: Låten gjordes bland annat känd genom att Anna-Kristina Widell vann nyckelharps-VM med den.
+N: Se även +
+N: och Karen Myers uppteckning (#1711)
+N: Se även musikverkets facsimilkopia av originalet (där låten har nummer 153)
+N: [[http://carkiv.musikverk.se/www/fmk/Ma12/Ma12ab/Ma12a038.jpg#_ga=2.73484882.198902146.1573432801-1085886276.1573296179]]
+N: Där framgår att anteckningen i andra reprisen, som Nils nämner, mycket riktigt pekar på en felaktighet.
+N: I originalbilden syns tydligt att tredje taktens slut består av 4st åttondelar: e g f# e
+N: Vidare finns en avvikelse i första reprisens 4e takt som i originalet inleds med B, ej G. 
+Z: 2008-05-31 av Nils L
+M: 3/4
+L: 1/16
+K: Em
+E2EF E2EF G2A2 | B2Bc B2Bc B4 | G2GA B2Bc B2A2 | G2Bc B8 ::
+b2>g2 g2ga g4 | a2>f2 f2fg f4 | g2gf e2gf e4 | ^d2f2 B8 |
+b2>g2 g2ga f4 | a2>f2 f2fg f4 | g2fe g2fe f2e^d | e2ef e4 E4 :|
+

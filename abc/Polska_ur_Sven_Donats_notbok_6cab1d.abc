@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:21
+T:Polska ur Sven Donats notbok
+T:(MA5-21)
+S:Efter Sven Donat
+R:Polska
+O:Småland
+B:MA5, låt 21, sida 24
+B:Sven Donats notbok
+N:Jmf SvL Skåne 303, Ola Andersson, Huaröd (nr. 9) och Theorin, Växjö 1792 (O.A.)
+M:3/4
+L:1/16
+K:Cm
+|:C=B,CD EDEF G4|c=Bcd edef g4|g2ab g2fe e2dc|c2=Bc dcB=A GFED|
+C=B,CD EDEF G4|c=Bcd edef g4| g2ab g2fe e2dc|edc=B c4 c4:|
+|:g2=eg e2fg g2ab|b2gb g2=eg f4|f2dB B2df f2ga|gfed e2BG E4|
+.e2.d2 .d2.c2 .c2.B2|G2cd edc=B c4|c2ba g2gf e2dc|edc=B c4 c4:|
+

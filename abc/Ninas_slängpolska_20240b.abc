@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:1
+T:Ninas slängpolska
+M:3/4
+L:1/16
+R:Slängpolska
+C:Robert Boström
+Z:Robert Boström 2009-06-08
+K:Em
+%%score (T1) (B1)
+V:T1  clef=treble 
+V:B1  clef=treble   %octave=+2 %middle=d %octave=-2
+%
+%%MIDI program 1 57 %   53=Choir Oohs  19 = Church Organ 56=trumpet
+%%MIDI program 2 53
+% 64
+% %%MIDI program 5 19 % Church Organ
+% %%MIDI program 6 19
+%A1
+[V:T1]|:"Em"B4G4E4|B4 F2G2 E4|"D"A3G A2B2 c2d2|"G"B12|
+[V:B1]|:e4B4G4    |e4  A2B2 G4|c3B c2d2 e2f2|d12|
+[V:T1]"Am"e4 c4 A4|"Em"B4 F2G2 E4|"Bm"F3E D2E2 F2G2|"Em"E12:|
+[V:B1]a4 e4 c4  |e4  A2B2 G4|A3G F2G2 A2B2|G12:|
+[V:T1]|:"Em"BGEG BGEG BGEG|"Bm"BFDF BFDF BFDF|"Em"BGEG BGEG BGEG|"Bm"BFDF BFDF BFDF|
+[V:B1]|:eBGB  eBGB eBGB   |dBFB dBFB dBFB    |eBGB  eBGB eBGB   |dBFB dBFB dBFB    |
+[V:T1]"C"cGEG cGEG cGEG|"G"BGDG BGDG BGDG|"Bm"F3E D2E2 F2G2|"Em"E12:|
+[V:B1]ecGc ecGc ecGc |dBGB dBGB dBGB   |A3G F2G2 A2B2|G12:|
+

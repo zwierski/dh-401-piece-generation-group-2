@@ -1,0 +1,26 @@
+%%abc-charset utf-8
+
+X:18
+S:efter Andreas Grevelius
+R:Slängpolska
+M:3/4
+L:1/16
+O:Småland
+D:Ditte Andersson (MCM 4001) - Polska i Dm efter [[Personer/Anders Liljefors den äldre]] (en variant av "var 2")
+B:SMUS katalog M93 bild 18
+N:Återställningstecknen på H finns inte i originalnoterna.
+Z:Nils L
+K:Dm
+"Var 3"
+Afdf Afdf Afdf | Ae^ce Aece Aece | Afdf Ageg Afdf | ^c2d2 edc=B AGFE S | 
+Dfdf Afdf Afdf | Ae^ce Aece Aece | Afdf Ageg Afdf | Ae^ce d4 D4 ::
+cafa cafa cafa | cgeg cgeg cgeg | Afdf Afdf Afdf | Aecd ed^c=B "Da capo al segno"AGFE |
+"Var 4"
+|: D2>[fd]2 [fd]8 | A,2>[^ce]2 [ec]8 | A2[fd]2A2[gd]2A2[fd]2 | ^cded cd=Bc AGFE | D2>[fd]2 [fd]8 | A,2>[^ce]2 [ec]8 | A2[fd]2A2[gd]2A2[fd]2 | ^ceAc d4 D4 ::
+   F2>[af]2 [af]8 | c2>[ge]2 [ge]8 | A2"korstecken ej i original"^c2e2a2 AGFE | D2>[fd]2 [fd]8 | A,2>[^ce]2 [ec]8 | A2[fd]2A2[gd]2A2[fd]2 | ^ceAc d4 D4 |
+"Var 5"
+|: f2>e2 d2d2 ^cdef | e2>d2 ^c2c2 e2cA | f2>e2 defg a=b^c'd' | e'^c'ae ^cAE^C A,4 | 
+   f2>e2 d2d2  cdef | e2>d2 ^c2c2 e2cA | f2>e2 defg afed | ^ceAc d4 D4 ::
+   a2>g2 f2a2c'2a2 | g2>f2 e2g2b2g2 | f2>e2 d2a2f2d2 | A,CEA ^cea^c' e'c'ae | 
+   f2>e2 d2d2  cdef | e2>d2 ^c2c2 e2cA | f2>e2 defg afed | ^ceAc d4 D4 :|
+

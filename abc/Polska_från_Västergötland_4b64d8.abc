@@ -1,0 +1,41 @@
+%%abc-charset utf-8
+
+X:2
+T:Polska från Västergötland
+T:Svenska Folkdansar H1 nr 2
+B:Traditioner av Svenska Folkdansar Häfte 1, nr 2
+B:FMK - katalog MMD30 bild 2
+M:3/4
+Z:2012-08-02 Per Oldberg
+L:1/8
+O:Västergötland
+R:Slängpolska
+V:1
+V:2 bass
+V:3 bass merge
+K:F
+V:1
+FEFGAB | (cd)(d2c)A | cBGBAG | FEFCA,C | 
+V:2
+A,2A,2A,2 | (A,2B,2)A,2 | G,2C2B,2 | A,2A,2F,2 | 
+V:3
+F,2F,2F,2 | (F,2E,2)F,2 | G,2C,4 | F,2F,2F,2 | 
+V:1
+FEFGAB | (cd)(d2c)A | cBGBAG | FEF2F2 || 
+V:2
+A,2A,2A,2 | (A,2B,2)A,2 | G,2C2B,2 | A,2A,2A,2 || 
+V:3
+F,2F,2F,2 | (F,2E,2)F,2 | G,2C,4 | F,2F,2F,2 ||
+V:1
+(cB)GBA2 | (cB)GBA2 | FEFGAG | FEFCA,C | 
+V:2
+C6 | C6 | D6 | A,2A,2F,2 | 
+V:3
+G,2C,2F,2 | G,2C,2F,2 | [D,2A,2][D,2A,2][C,2B,2] | F,2F,2F,2 | 
+V:1
+(cB)GBA2 | (cB)GBA2 | FEFGAG | FEF2F2 || 
+V:2
+C6 | C6 | D6 | A,2A,2A,2 || 
+V:3
+G,2C,2F,2 | G,2C,2F,2 | [D,2A,2][D,2A,2][C,2B,2] | F,2F,2F,2 ||
+

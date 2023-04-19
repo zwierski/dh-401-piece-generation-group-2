@@ -1,0 +1,18 @@
+%%abc-charset utf-8
+
+X:1
+T:Slängpolska efter AG Andersson
+R:Slängpolska
+S:Utlärd av Patrik Andersson
+Z:Karin Arén
+O:Mörkö, Södermanland
+M:3/4
+L:1/8
+K:Dm
+v(Ad) d(3(c/=B/c/ d)u(e | f/e/)f/g/ af/g/ (3(f/g/f/)Le/u(A/ | cd) c(=B [GB])v(B | =B)c/B/ (B<A) v[A,E]2 |
+u(Ad) d(3(c/=B/c/ d)v(e | f/e/)f/g/ af/(g/ (3f/g/f/)Le/u(A/ | cd) c(=B [GB])v(B | =B)c/B/ (B/A/[DA]) v[A,E]2 |
+u(DF) F(A {=B}c)v([DB] | [D=B])c/B/ (B/A/)(A/D/ F)F |vFG/F/ {EDED}E2 [CE]>(D | E)LF/(E/ D/C/)LD/(E/ F/E/)D/C/ | 
+v(DF) F(A {=B}c)u([DB] | [D=B])c/B/ ([DA]/D/)([DA]/D/ F)(v[AF] | [AF])=B/^c/ d(e {fe}f)g | (e/f/)e/=c/ ud4 
+v(DF) F(A {=B}c)u([DB] | [D=B])c/B/ ([DA]/D/)([DA]/D/ F)(v[AF] | v[AF])G/F/ {EDED}E2 [CE]>(D | E)LF/(E/ D/C/)LD/(E/ F/E/)D/C/ | 
+v(DF) F(A {=B}c)u([DB] | [D=B])c/B/ ([DA]/D/)([DA]/D/ F)(v[AF] | [AF])=B/^c/ d(e {fe}f)g | (e/f/)e/=c/ ud4 |]
+

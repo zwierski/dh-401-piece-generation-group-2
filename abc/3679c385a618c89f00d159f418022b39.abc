@@ -1,0 +1,12 @@
+%%abc-charset utf-8
+
+X: 106
+Z: Nils L
+M: 3/4
+L: 1/16
+%%MIDI ratio 3 1
+K: Am
+e2ea e2ef e2d2 | c2>B2 A^GAB cBcd | e2>f2 g2a2 g2^f2 | e2>=f2 edef e4 ::
+e2fg a2>g2 f2e2 | d2ef g2>f2 e2d2 | c2de f2>e2 d2c2 | B2>A2 ^GABA G2E2 |
+A2AB cBcB cBcB | A^GAB cBcd e4 | e2ae d2>c2 B2A2 | cBA^G A8 :|
+

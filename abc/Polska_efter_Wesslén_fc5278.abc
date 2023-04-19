@@ -1,0 +1,25 @@
+%%abc-charset utf-8
+
+X:100
+%Fil: 11_MG_0527.pdf
+T:Polska efter Wesslén
+O:Uppland
+R:Polska
+N:Ur en notbok som gått i arv i släkten Wesslén ([[Personer/Mats Wesslén]] är organisten i Överlövsta socken som tecknade ned många låtar efter [[Personer/Byss-Kalle]]). Ref. [[Personer/Per-Ulf Allmo]]
+N:En korr.-läsning av basnoterna skulle inte skada.
+Z:Nils L
+M:3/4
+L:1/16
+K:C
+V:1
+g4 x8 & g4 g^fga gfga | [eg]2[df]z [df]2[ce]z [ce]2c'2 | c'afa ageg fedc | Bcde dcBA G2ce |
+[eg]4 g^fga gfga | ([eg]2[df])z [df]2[ce]z [ce]2c'2 | c'afa ageg fedc | BcdB c4 z4 ::
+G2Bd fedc BcdB | G2ce g2ec Gcec | G2Bd fedc BcdB | G2ce g2ec Gceg |
+[c'c]2[fa]z [fa]2[Af]z [Af]4 | [c'c]2[eg]z [eg]2[ce]z [e4c4] | [da]3g f2>e2 d2Bd | fdBd c4 z4 :|
+V:2 clef=bass octave=-2
+L:1/8
+[cc'][gc'e'] [gc'e'][gc'e'] [gc'e'][gc'e'] | cc' cc' cc' | f[ac'] g[c'e'] g[d'f'] | [Gg][gbd'] [gbd'][gbd'] [gbd']z |
+[cc'][gc'e'] [gc'e'][gc'e'] [gc'e'][gc'e'] | cc' cc' cc' | f[ac'] g[c'e'] g[d'f'] | g[d'f'] [c'e']2 c2 ::
+[Gg][gd'f'] [gd'f'][gd'f'] [gd'f'][gd'f'] | [cc'][gc'e'] [gc'e'][gc'e'] [gc'e'][gc'e'] | [Gg][gd'f'] [gd'f'][gd'f'] [gd'f'][gd'f'] | [cc'][gc'e'] [gc'e'][gc'e'] [gc'e'][gc'e'] | 
+[Ff][fac'] [fac'][fac'] [fac']2 | [cc'][c'e'] [c'e'][c'e'] [cc']2 | [Gb][gbd'f'] [gbd'f'][gbd'f'] [gbd'f'][gbd'f'] | g[bd'f'] [c'e']2 c2 :|
+

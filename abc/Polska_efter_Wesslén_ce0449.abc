@@ -1,0 +1,29 @@
+%%abc-charset utf-8
+
+X:100
+%Fil: 02_MG_0556.pdf
+T:Polska efter Wesslén
+O:Uppland
+R:Polska
+M:3/4
+L:1/16
+N:Ur en notbok som gått i arv i släkten Wesslén ([[Personer/Mats Wesslén]] är organisten i Överlövsta socken som tecknade ned många låtar efter [[Personer/Byss-Kalle]]). Ref. [[Personer/Per-Ulf Allmo]]
+N:Ackompanjemanget är taget från Wessléns noter. Vad gäller dubbelgreppen i de två första takterna ser tonen E ut att vara överstruken i noterna.
+N:Det är en hel del toner så även om jag tror att det ska vara rätt så skulle det inte skada med en korr.-läsning.
+Z:Nils L
+M:3/4
+L:1/16
+I:linebreak $
+K:C
+V:1
+EGce DFBd [cE]2[cE]2 | EGce DFBd [cE]2[cE]2 | G2ef gfef g2ab | [c'e]2[g2e2] [g2e2][f2d2] [f2d2][e2c2] |
+EGce DFBd c2c2 | EGce DFBd [c4E4] | G2ef gfef g2ab | c'2c2 [BFD]4 [cEG]4 :: $
+G2ce g2ec GGGG | G2Bd f2dB GGGG | Gceg gfaf fddd | GBdf fege eccc | $
+Bd"^?"Bd cece dfdf | {/f}e2dc [BFD]4 [cEG]4 :|
+V:2 clef=bass octave=-2
+L:1/8
+cg Gg [gc][gc] | cg Gg [gc][gc] | c[egc'][egc'][egc'][egc'][egc'] | cc'cc'cc' |
+cg Gg [gc][gc] | cg Gg [gc]2    | c[egc'][egc'][egc'][egc'][egc'] | cc' g2 [cc']2 :: $
+c2 [cG]c/e/ ge/c/ | G/G/G/G/ GB/d/ "_g?"fd/B/ | d[ec'e'] [fad'][fad'] [fad'][fad'] | [Gg][gd'f'] [gc'e'][gc'e'] [gc'e'][gc'e'] | $
+[gd'f'][gd'f'] [gc'e'][gc'e'] [gbd'][gbd'] | c'c g2 c2 :|
+

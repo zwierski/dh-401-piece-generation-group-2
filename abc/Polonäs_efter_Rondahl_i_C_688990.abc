@@ -1,0 +1,18 @@
+%%abc-charset utf-8
+
+X:23
+T:Polonäs efter Rondahl i C
+R:Slängpolska
+O:Slite, Gotland
+B:Rondahls nothäfte
+B:FMK - katalog MMD50 bild 26 nr 70
+N:ur ett notehäfte märkt "Carl Nicolaus Arvid Rondahl"
+N:Variant av visan "En sup till..."
+M:3/4
+L:1/16
+K:C
+c4 B4 c4 | d2c2 B2c2 d4 | f2fe f2a2 d2f2 | fedc BcAB G4 |
+c4 B4 c4 | d2c2 B2c2 d4 | f2fe f2a2 d2f2 | edcB d4 c4 ||
+efge cdcB cdec | dcBA GABc defg | efge cdcB cdec | dcBA GABc defg |
+fedc defg afdc | c"*"BAB c4 d4 ||
+

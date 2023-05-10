@@ -2,6 +2,8 @@
 
 Our work is located inside the "assignment3.ipynb" notebook.
 
+train.csv and test.csv are our training and test sets for the models, composed of pieces from the original dataset.
+
 The songs for our models are located in the following files:
 - random_songs.csv for our random model
 - markov_songs.csv for our first generative model (markov chains and bigrams)
